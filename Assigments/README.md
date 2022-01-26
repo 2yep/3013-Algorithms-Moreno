@@ -4,7 +4,7 @@
 | :---: | ---------------------- | ---------------------- |
 |  01   | [A03A](A03A/README.md) | Banner page.           |
 |  02   | [A03B](A03B/README.md) | Commented code.        |
-|  03   |                        |                        |
+|  03   | [P01](P01/README.md)   | Resizing the Stack     |
 |  04   |                        |                        |
 |  05   |                        |                        |
 |  06   |                        |                        |

@@ -1,0 +1,17 @@
+##################################################
+Program 1 - Resizing the Stack
+CMPS 3013
+Miklos Moreno
+
+Config Params:
+  Full Threshold: 3.45846e-323
+  Shrink Threshold: 3.95253e-323
+  Grow Ratio: 3.45846e-323
+  Shrink Ratio: 3.95253e-323
+
+Processed 4919376 commands.
+
+Max Stack Size: 10
+End Stack Size: 10
+Stack Resized: 45 Times
+##################################################
