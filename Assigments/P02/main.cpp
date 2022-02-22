@@ -306,11 +306,6 @@ int main()
                 cout << "Letters only!\n";
                 continue;
             }
-
-            if ((int)k >= 97)               // Making sure its lowercase.
-            {
-                k -= 32;                    // Make the input word  capital letters.
-            }
         }
         word += k;                          // Append character to word.
 
